@@ -64,7 +64,4 @@ Escape-Room-Simulator/
 
 ---
 
-## 👨‍💻 Developer
 
-**George Thomas**  
-S4 CSE Student — Saintgits College of Engineering, Kottayam
